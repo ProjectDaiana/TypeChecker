@@ -1,7 +1,8 @@
 # TypeChecker
 TypeChecker is a web application that allows users to dynamically preview and manipulate text styling parameters in real-time using HTML, CSS, and JavaScript.
 
-#Features
+
+## Features
 - Text Input and Output: Enter text into an input field and see it dynamically updated in a preview textarea.
 
 - Styling Controls: Customize typefaces, font weight, size, line height, and toggle italic styling.
